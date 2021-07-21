@@ -1,7 +1,7 @@
 import socket
 
 
-SERVER_IP = '192.168.122.66'
+SERVER_IP = '192.168.122.217'
 SERVER_PORT = 5005
 
 
